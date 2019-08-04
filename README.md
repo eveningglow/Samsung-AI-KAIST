@@ -6,9 +6,9 @@
 ### Week 5
 | Date | Topic | Deadline | 
 |:-------:|:-------:|:------:|
-|  07/29 |  컴퓨터 비전 기초 - [Link](https://github.com/Kangyeol-Kim/quiz_for_day29)  |   08/05    |
+|  07/29 |  컴퓨터 비전 기초 - [Link](https://github.com/Kangyeol-Kim/quiz_for_day29)  |   08/10    |
 |  07/30 |  이미지, 비디오 물체 검출 - [Link](https://github.com/1Konny/object_detection_quiz/blob/master/quiz/quiz.ipynb)| 08/06  |       |
-|  07/31 |  이미지 생성 및 변환  -   [Link](https://github.com/alohays/SAMSUNGxKAIST-AI)    | 08/07 |
+|  07/31 |  이미지 생성 및 변환  -   [Link](https://github.com/alohays/SAMSUNGxKAIST-AI)    | 08/11 |
 |  08/01 |  Semantic Segmentation, 물체 트래킹 - [Link](https://github.com/1Konny/semantic-segmentation-quiz/blob/master/quiz.ipynb)  |   08/08    |
 |  08/02 |  자세 및 행동 인식  |   -    |
 
